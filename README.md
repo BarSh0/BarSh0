@@ -26,7 +26,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Bar Shoshani | LinkedIn" width="22px" style="color:white" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/bar-shoshani/)
+[<img align="left" alt="Bar Shoshani | LinkedIn" width="22px" style="fill: white;" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/bar-shoshani/)
 [<img align="left" alt="Bar Shoshani | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/bar_shoshani/)
 
 <br />
