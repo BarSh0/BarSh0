@@ -4,7 +4,7 @@
 
 
 ### 👤 &nbsp;About Me ###
-- 🌱 SW at AppsFlyer.
+- 🌱 Freelance Web Developer.
 
 ### 🛠 &nbsp;Tech Stack ###
 - Languages &nbsp;
